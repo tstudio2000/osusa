@@ -1,0 +1,25 @@
+{
+  "texts": {
+    "ru": {
+      "heroTitle": "EURO SHOP BABY",
+      "heroSubtitle": "H&M и NEXT одежда для детей — прямиком из Британии!"
+    },
+    "uz": {
+      "heroTitle": "EURO SHOP BABY",
+      "heroSubtitle": "H&M va NEXT bolalar kiyimlari — Angliyadan bevosita!"
+    }
+  },
+  "categories": [
+    {
+      "title_ru": "Туфли NEXT",
+      "title_uz": "NEXT tuflilari",
+      "image": "cross1.jpg",
+      "link": "https://t.me/EuBabyShop"
+    }
+  ],
+  "contacts": {
+    "phone": "+998951123663",
+    "telegram": "https://t.me/EuBabyShop",
+    "instagram": "https://www.instagram.com/euro_shop_baby"
+  }
+}
