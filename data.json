@@ -2,7 +2,7 @@
   "texts": {
     "ru": {
       "heroTitle": "EURO SHOP BABY",
-      "heroSubtitle": "asdasdasda"
+      "heroSubtitle": "H&M и NEXT одежда для детей — прямиком из Британии!"
     },
     "uz": {
       "heroTitle": "EURO SHOP BABY",
@@ -15,11 +15,29 @@
       "title_uz": "NEXT tuflilari",
       "image": "cross1.jpg",
       "link": "https://t.me/EuBabyShop"
+    },
+    {
+      "title_ru": "H&M",
+      "title_uz": "H&M",
+      "image": "foot1.jpg",
+      "link": "https://t.me/EuBabyShop"
+    },
+    {
+      "title_ru": "Набор кофт H&M",
+      "title_uz": "H&M koftalar to‘plami",
+      "image": "footset.jpg",
+      "link": "https://t.me/EuBabyShop"
+    },
+    {
+      "title_ru": "Кроссовки H&M",
+      "title_uz": "H&M кроссовкалар",
+      "image": "cross2.jpg",
+      "link": "https://t.me/EuBabyShop"
     }
   ],
   "contacts": {
-    "phone": "12312312312312313",
-    "telegram": "1231231231",
-    "instagram": "213123123"
+    "phone": "+998951123663",
+    "telegram": "https://t.me/EuBabyShop",
+    "instagram": "https://www.instagram.com/euro_shop_baby"
   }
 }
