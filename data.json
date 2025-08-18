@@ -2,11 +2,59 @@
   "texts": {
     "ru": {
       "heroTitle": "EURO SHOP BABY",
-      "heroSubtitle": "H&M и NEXT одежда для детей — прямиком из Британии!"
+      "heroSubtitle": "H&M и NEXT одежда для детей — прямиком из Британии!",
+      "features": {
+        "originalBrands": {
+          "title": "Оригинальные бренды",
+          "description": "Только подлинные европейские поставки и проверенное качество."
+        },
+        "fastResponses": {
+          "title": "Быстрые ответы",
+          "description": "Пишите нам в Telegram — оператор ответит вам!"
+        },
+        "delivery": {
+          "title": "Доставка по Узбекистану",
+          "description": "Отправляем удобной для вас службой. Оплата удобным способом!"
+        }
+      },
+      "categories": {
+        "title": "Наши категории",
+        "contact": "Нашли нужный товар? Свяжитесь с нами по Telegram"
+      },
+      "contact": {
+        "title": "Есть вопросы?"
+      },
+      "footer": {
+        "madeWithLove": "Сделано с любовью к детям ♡"
+      }
     },
     "uz": {
       "heroTitle": "EURO SHOP BABY",
-      "heroSubtitle": "H&M va NEXT bolalar kiyimlari — Angliyadan bevosita!"
+      "heroSubtitle": "H&M va NEXT bolalar kiyimlari — Angliyadan bevosita!",
+      "features": {
+        "originalBrands": {
+          "title": "Asl brendlar",
+          "description": "Faqat haqiqiy Yevropa yetkazib berish va tasdiqlangan sifat."
+        },
+        "fastResponses": {
+          "title": "Tez javoblar",
+          "description": "Bizga Telegram orqali yozing — operator sizga javob beradi!"
+        },
+        "delivery": {
+          "title": "O‘zbekiston bo‘ylab yetkazib berish",
+          "description": "Sizga qulay xizmat orqali yuboramiz. To‘lov qulay usulda!"
+        }
+      },
+      "categories": {
+        "title": "Bizning kategoriyalar",
+        "contact": "Kerakli mahsulotni topdingizmi? Biz bilan Telegram orqali bog‘laning"
+      },
+      "contact": {
+        "title": "Savollaringiz bormi?"
+      },
+      "footer": {
+        "madeWithLove": "Bolalar uchun muhabbat bilan yaratilgan ♡"
+      }
     }
   },
   "categories": [
@@ -19,32 +67,20 @@
     {
       "title_ru": "H&M",
       "title_uz": "H&M",
-      "image": "foot1.jpg",
+      "image": "https://raw.githubusercontent.com/tstudio2000/osusa/main/foot1.jpg",
       "link": "https://t.me/EuBabyShop"
     },
     {
       "title_ru": "Набор кофт H&M",
       "title_uz": "H&M koftalar to‘plami",
-      "image": "footset.jpg",
+      "image": "https://raw.githubusercontent.com/tstudio2000/osusa/main/footset.jpg",
       "link": "https://t.me/EuBabyShop"
     },
     {
       "title_ru": "Кроссовки H&M",
       "title_uz": "H&M кроссовкалар",
-      "image": "cross2.jpg",
+      "image": "https://raw.githubusercontent.com/tstudio2000/osusa/main/cross2.jpg",
       "link": "https://t.me/EuBabyShop"
-    },
-    {
-      "title_ru": "asdadsada",
-      "title_uz": "asdasdadasda",
-      "image": "https://raw.githubusercontent.com/tstudio2000/osusa/main/image-1755455306606-5.jpg",
-      "link": "asdadasdada"
-    },
-    {
-      "title_ru": "adasda",
-      "title_uz": "asdasdada",
-      "image": "https://raw.githubusercontent.com/tstudio2000/osusa/main/image-1755500755935-5.jpg",
-      "link": "aasdadad"
     }
   ],
   "contacts": {
