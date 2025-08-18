@@ -1,8 +1,8 @@
 {
   "texts": {
     "ru": {
-      "heroTitle": "EURO SHOP BABY1",
-      "heroSubtitle": "H&M и NEXT одежда для детей — прямиком из Британии!1",
+      "heroTitle": "EURO SHOP BABY",
+      "heroSubtitle": "H&M и NEXT одежда для детей — прямиком из Британии!",
       "features": {
         "originalBrands": {
           "title": "Оригинальные бренды",
@@ -29,8 +29,8 @@
       }
     },
     "uz": {
-      "heroTitle": "EURO SHOP BABY1",
-      "heroSubtitle": "H&M va NEXT bolalar kiyimlari — Angliyadan bevosita!1",
+      "heroTitle": "EURO SHOP BABY",
+      "heroSubtitle": "H&M va NEXT bolalar kiyimlari — Angliyadan bevosita!",
       "features": {
         "originalBrands": {
           "title": "Asl brendlar",
@@ -59,36 +59,36 @@
   },
   "categories": [
     {
-      "title_ru": "Туфли NEXT1",
-      "title_uz": "NEXT tuflilari1",
+      "title_ru": "Туфли NEXT",
+      "title_uz": "NEXT tuflilari",
       "image": "https://raw.githubusercontent.com/tstudio2000/osusa/main/image-1755535703442-0.jpg",
-      "link": "https://t.me/EuBabyShop1"
+      "link": "https://t.me/EuBabyShop"
     },
     {
-      "title_ru": "H&M1",
-      "title_uz": "H&M1",
+      "title_ru": "H&M",
+      "title_uz": "H&M",
       "image": "https://raw.githubusercontent.com/tstudio2000/osusa/main/foot1.jpg",
-      "link": "https://t.me/EuBabyShop1"
+      "link": "https://t.me/EuBabyShop"
     },
     {
-      "title_ru": "Набор кофт H&M1",
-      "title_uz": "H&M koftalar to‘plami1",
+      "title_ru": "Набор кофт H&M",
+      "title_uz": "H&M koftalar to‘plami",
       "image": "https://raw.githubusercontent.com/tstudio2000/osusa/main/footset.jpg",
-      "link": "https://t.me/EuBabyShop1"
+      "link": "https://t.me/EuBabyShop"
     },
     {
-      "title_ru": "Кроссовки H&M1",
-      "title_uz": "H&M кроссовкалар1",
+      "title_ru": "Кроссовки H&M",
+      "title_uz": "H&M кроссовкалар",
       "image": "https://raw.githubusercontent.com/tstudio2000/osusa/main/cross2.jpg",
-      "link": "https://t.me/EuBabyShop1"
+      "link": "https://t.me/EuBabyShop"
     }
   ],
   "contacts": {
-    "phone": "+9989511236631",
+    "phone": "+998951123663",
     "phoneDisplay": "+998 (95) 112-36-63",
-    "telegram": "https://t.me/EuBabyShop1",
+    "telegram": "https://t.me/EuBabyShop",
     "telegramDisplay": "@EuBabyShop",
-    "instagram": "https://www.instagram.com/euro_shop_baby1",
+    "instagram": "https://www.instagram.com/euro_shop_baby",
     "instagramDisplay": "@Euro_shop_baby"
   }
 }
