@@ -1,0 +1,112 @@
+{
+  "texts": {
+    "ru": {
+      "heroTitle": "EURO SHOP BABY",
+      "heroSubtitle": "H&M и NEXT............. одежда для детей — прямиком из Британии!",
+      "features": {
+        "originalBrands": {
+          "title": "Оригинальные бренды",
+          "description": "Только подлинные европейские поставки и проверенное качество."
+        },
+        "fastResponses": {
+          "title": "Быстрые ответы",
+          "description": "Пишите нам в Telegram — оператор ответит вам!"
+        },
+        "delivery": {
+          "title": "Доставка по Узбекистану",
+          "description": "Отправляем удобной для вас службой. Оплата удобным способом!"
+        }
+      },
+      "categories": {
+        "title": "Наши категории",
+        "contact": "Нашли нужный товар? Свяжитесь с нами по Telegram"
+      },
+      "contact": {
+        "title": "Есть вопросы?"
+      },
+      "footer": {
+        "madeWithLove": "Сделано с любовью к детям ♡"
+      }
+    },
+    "uz": {
+      "heroTitle": "EURO SHOP BABY",
+      "heroSubtitle": "H&M va NEXT bolalar kiyimlari — Angliyadan bevosita!",
+      "features": {
+        "originalBrands": {
+          "title": "Asl brendlar",
+          "description": "Faqat haqiqiy Yevropa yetkazib berish va tasdiqlangan sifat."
+        },
+        "fastResponses": {
+          "title": "Tez javoblar",
+          "description": "Bizga Telegram orqali yozing — operator sizga javob beradi!"
+        },
+        "delivery": {
+          "title": "O‘zbekiston bo‘ylab yetkazib berish",
+          "description": "Sizga qulay xizmat orqali yuboramiz. To‘lov qulay usulda!"
+        }
+      },
+      "categories": {
+        "title": "Bizning kategoriyalar",
+        "contact": "Kerakli mahsulotni topdingizmi? Biz bilan Telegram orqali bog‘laning"
+      },
+      "contact": {
+        "title": "Savollaringiz bormi?"
+      },
+      "footer": {
+        "madeWithLove": "Bolalar uchun muhabbat bilan yaratilgan ♡"
+      }
+    }
+  },
+  "categoryGroups": [
+    {
+      "title_ru": "Обувь",
+      "title_uz": "Poyabzal",
+      "categories": [
+        {
+          "title_ru": "Туфли NEXT",
+          "title_uz": "NEXT tuflilari",
+          "image": "https://raw.githubusercontent.com/tstudio2000/osusa/main/image-1755537873136-0.jpg",
+          "link": "https://t.me/EuBabyShop"
+        },
+        {
+          "title_ru": "Кроссовки H&M",
+          "title_uz": "H&M кроссовкалар",
+          "image": "https://raw.githubusercontent.com/tstudio2000/osusa/main/image-1755544393082-3.jpg",
+          "link": "https://t.me/eurostylefamily/5860"
+        }
+      ]
+    },
+    {
+      "title_ru": "Одежда",
+      "title_uz": "Kiyim",
+      "categories": [
+        {
+          "title_ru": "H&M",
+          "title_uz": "H&M",
+          "image": "https://raw.githubusercontent.com/tstudio2000/osusa/main/image-1755589844523-1.png",
+          "link": "https://t.me/EuBabyShop"
+        },
+        {
+          "title_ru": "Набор кофт H&M",
+          "title_uz": "H&M koftalar to‘plami",
+          "image": "https://raw.githubusercontent.com/tstudio2000/osusa/main/image-1755546835699-2.png",
+          "link": "https://t.me/EuBabyShop"
+        },
+        {
+          "title_ru": "asdad",
+          "title_uz": "asdasd",
+          "image": "https://raw.githubusercontent.com/tstudio2000/osusa/main/image-1755587489096-4.jpg",
+          "link": "asdadasd"
+        }
+      ]
+    }
+  ],
+  "contacts": {
+    "phone": "+998951123663",
+    "phoneDisplay": "+998 (95) 112-36-63",
+    "telegram": "https://t.me/EuBabyShop",
+    "telegramDisplay": "@EuBabyShop",
+    "instagram": "https://www.instagram.com/euro_shop_baby",
+    "instagramDisplay": "@Euro_shop_baby"
+  }
+}
