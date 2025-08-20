@@ -107,8 +107,14 @@
         {
           "title_ru": "H&M  UK",
           "title_uz": "H&M  UK",
-          "image": "https://raw.githubusercontent.com/tstudio2000/osusa/main/image-1755678903881-2-0.jpg",
+          "image": "https://raw.githubusercontent.com/tstudio2000/osusa/main/image-1755680227484-1-0.webp",
           "link": "https://www2.hm.com/en_gb/index.html?srsltid=AfmBOopAtfHSBxrSjATkZdKsGFpbEAymJL5HVKTwoLOpRFsmvCrTa4oa"
+        },
+        {
+          "title_ru": "NEXT  UK",
+          "title_uz": "NEXT  UK",
+          "image": "https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg",
+          "link": ""
         }
       ]
     }
