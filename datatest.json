@@ -159,6 +159,48 @@
           "link": "https://direct.asda.com/george/clothing/10,default,sc.html"
         }
       ]
+    },
+    {
+      "title_ru": "ЗАКАЗ С САЙТА АНГЛИИ",
+      "title_uz": "АНГЛИЯ САЙТИДАН БУЮРТМА",
+      "categories": [
+        {
+          "title_ru": "H&M  UK",
+          "title_uz": "H&M  UK",
+          "image": "https://raw.githubusercontent.com/tstudio2000/osusa/main/image-1755680227484-1-0.webp",
+          "link": "https://www2.hm.com/en_gb/index.html?srsltid=AfmBOopAtfHSBxrSjATkZdKsGFpbEAymJL5HVKTwoLOpRFsmvCrTa4oa"
+        },
+        {
+          "title_ru": "NEXT  UK",
+          "title_uz": "NEXT  UK",
+          "image": "https://raw.githubusercontent.com/tstudio2000/osusa/main/image-1755680485518-1-1.jpg",
+          "link": "https://www.next.co.uk"
+        },
+        {
+          "title_ru": "MATALAN  UK",
+          "title_uz": "MATALAN  UK",
+          "image": "https://raw.githubusercontent.com/tstudio2000/osusa/main/image-1755680903118-1-2.jpg",
+          "link": "https://www.matalan.co.uk"
+        },
+        {
+          "title_ru": "TU  UK",
+          "title_uz": "TU  UK",
+          "image": "https://raw.githubusercontent.com/tstudio2000/osusa/main/image-1755681269448-1-3.webp",
+          "link": "https://tuclothing.sainsburys.co.uk/browse/school-uniform/c:842024/"
+        },
+        {
+          "title_ru": "ZARA  UK",
+          "title_uz": "ZARA  UK",
+          "image": "https://raw.githubusercontent.com/tstudio2000/osusa/main/image-1755681443121-1-4.jpg",
+          "link": "https://www.zara.com/uk"
+        },
+        {
+          "title_ru": "GEORGE  UK",
+          "title_uz": "GEORGE  UK",
+          "image": "https://raw.githubusercontent.com/tstudio2000/osusa/main/image-1755681979313-1-5.jpg",
+          "link": "https://direct.asda.com/george/clothing/10,default,sc.html"
+        }
+      ]
     }
   ],
   "contacts": {
